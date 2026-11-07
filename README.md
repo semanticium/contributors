@@ -1,5 +1,5 @@
-# Semanticium — contributors
+# Semanticium — public keys
 
-The people who contribute to Semanticium: who they are, their public signing keys and what each may contribute. Data only, in JSON-LD.
+Semanticium's public signing keys, with their history. Every piece of Semanticium content is signed with one of them, so anyone can check it. Data only, in JSON-LD.
 
-Browse it at https://contributors.semanticium.com
+Browse it at https://public-keys.semanticium.com
